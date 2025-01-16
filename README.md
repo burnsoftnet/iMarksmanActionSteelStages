@@ -1,5 +1,10 @@
 # iMarksman Action Steel Stages
  Stages for iMarksman Action Steel Simulator - https://shop.imarksman.com/products/sport
+ 
+ Misc Stages to practice different stages using steel only.  There are some Action Steel Matches out there, which I have not
+ seen anywere in my area, so this is a nice way to create my own stages.
+ 
+ Just download the Stages and import into your iMarksman Action Steel Simulator.
 
 ## Stages
 
@@ -12,6 +17,7 @@
 * Out in the Dark - 2 Circle Plates, 1 Ground Popper, 2 Pepper Poppers, 1 IPSC Plate, Plate Rack, Rectangle Plate, Stop Plate
 * Plate Rack Hell - Plate Rack Left, move center, Plate Rack Center, move right Plate Rack right, Stop Plate
 * Tango Zulu - Circle Plate, Pepper Popper,IPSC Plate, Stop Plate
+* Steel Transisition - 8" Circle Plate and Stop Plate,use the time at the stop plate to measure your transition time from one target to the next.
 
 ## Change Log
 
