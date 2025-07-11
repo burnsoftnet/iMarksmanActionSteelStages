@@ -23,7 +23,15 @@
 
 ### RimFireChallenge
 
-*
+* RFC - Stage 1 - 6 targets
+* RFC - Stage 2 - 6 targets
+* RFC - Stage 3 - 5 targets
+* RFC - Stage 4 - 6 targets
+* RFC - Stage 5 - 7 targets
+* RFC - Stage 6 - 7 targets
+* RFC - Stage 7 - 6 targets
+* RFC - Stage 8 - 7 targets
+
 
 ## Change Log
 
