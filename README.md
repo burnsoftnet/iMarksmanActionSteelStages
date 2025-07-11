@@ -37,6 +37,10 @@
 
 ### v2025.x.x
 
+* Moved initial stages to generic folder
+* Added Folder section called RimFireChallenge
+* Added 8 stages gather from the web for RimFire Challenge
+
 ### v1.0
 
 * Initial Release
