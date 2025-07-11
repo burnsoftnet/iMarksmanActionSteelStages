@@ -8,6 +8,8 @@
 
 ## Stages
 
+### Generic Stages
+
 * 8 to go - Plate Rack, Circle Plate, Pepper Popper, Stop Plate
 * 10 to go - Plate Rack, Circle Plate, IPSC Plate, Ground Popper, Pepper Popper, Stop Plate
 * BlackJack - 2 Circle Plates, 4 Ground Poppers, 4 Pepper Poppers, 2 IPSC Plates, Plate Rack, Rectangle Plate, Stop Plate
@@ -19,7 +21,13 @@
 * Tango Zulu - Circle Plate, Pepper Popper,IPSC Plate, Stop Plate
 * Steel Transisition - 8" Circle Plate and Stop Plate,use the time at the stop plate to measure your transition time from one target to the next.
 
+### RimFireChallenge
+
+*
+
 ## Change Log
+
+### v2025.x.x
 
 ### v1.0
 
