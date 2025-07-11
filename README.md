@@ -31,6 +31,10 @@
 * RFC - Stage 6 - 7 targets
 * RFC - Stage 7 - 6 targets
 * RFC - Stage 8 - 7 targets
+* RFC - Stage 9 - 5 targets
+* RFC - Stage 10 - 5 targets
+* RFC - Stage 11 - 6 targets
+* RFC - Stage 12 - 5 targets
 
 
 ## Change Log
@@ -39,7 +43,7 @@
 
 * Moved initial stages to generic folder
 * Added Folder section called RimFireChallenge
-* Added 8 stages gather from the web for RimFire Challenge
+* Added 12 stages gather from the web for RimFire Challenge
 
 ### v1.0
 
